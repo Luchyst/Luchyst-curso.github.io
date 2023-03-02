@@ -1,7 +1,8 @@
-html {
-    font-size: 18px;
-}
+
 #elemento-1 {
     color: red;
-    font-size: 36px;
+}
+
+ul li#elemento-1 {
+    font-size: 2rem;
 }
